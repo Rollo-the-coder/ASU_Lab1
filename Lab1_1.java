@@ -5,7 +5,7 @@
 //  Time taken to complete this lab: 15 minutes
 //=================================================
 
-public class Lab1
+public class Lab1_1
 {
     public static void main(String[] args) 
     {
