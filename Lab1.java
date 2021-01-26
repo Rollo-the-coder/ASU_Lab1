@@ -1,7 +1,7 @@
 //=================================================
 //  Lab1.java
 //  Name: Erik Christian Gotta
-//  ASU ID:
+//  ASU ID: 1222628953
 //  Time taken to complete this lab: 15 minutes
 //=================================================
 
